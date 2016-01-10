@@ -1,6 +1,6 @@
 name: Designers against AIDS
 favicon: null
-layout_spectrum: 0.49817
+layout_spectrum: 0.89062
 typography_spectrum: 0.7622252441942692
 cta:
   domain: null
@@ -22,7 +22,7 @@ color:
     - '#fdfef0'
     - '#433b29'
   brandStrength: 0.4375
-  lightness: 0.5160263141151518
+  lightness: 0.5
   saturation: 0.35756372357718647
   rhythmicContrast: 0.8232262695673853
 purpose: []
